@@ -14,4 +14,4 @@
 <p><h2>
 👍 Tools and Technology 
 </h2></p>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fjava_121152&psig=AOvVaw3xezBm1mdcs0ZNyHRgdcoc&ust=1695535552500000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjb5aOIwIEDFQAAAAAdAAAAABAh" width="40" height="40"/>
+<img src="![image](https://github.com/tubaamir/tubaamir/assets/135152116/0a56d3ae-eaf4-44b3-8363-df199e89aa2f)" width="60" height="40"/>
