@@ -3,7 +3,7 @@
  👀 A Cloud Developer in India.<br>
  🌱 I’m currently persuing by Bachelor's degree in Computer Science and Engineering from DIT University, Dehradun, India.<br>
  ☁  I'm in the domain of Cloud Computing and Blockchain Development.<br>
- 🔹  I'm familiar with GCP (Google Cloud Platform) and have been working in it for more than 2 years from now.<br>
+ 🔹  I'm constantly upgrading my skills in GCP by doing hands-on-experience Labs provided by Qwiklabs for more than 2 years from now.<br>
  💞️ I'm constantly learning new things in both technical and non-technical aspects.<br>
  🔹 Languages I can speak -  English | Hindi | Urdu | Spanish
 
