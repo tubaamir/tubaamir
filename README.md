@@ -5,6 +5,7 @@
  ☁  I'm in the domain of Cloud Computing and Blockchain Development.<br>
  🔹  I'm constantly upgrading my skills in GCP by doing hands-on-experience Labs provided by Qwiklabs for more than 2 years from now.<br>
  💞️ I like to learn new things in both technical and non-technical aspects.<br>
+ 📄 Find my Resume here:  [https://drive.google.com/file/d/1SJeAEV8TWhc1hVtWv3x89iSORvE9lR00/view?usp=share_link](https://drive.google.com/file/d/1SJeAEV8TWhc1hVtWv3x89iSORvE9lR00/view?usp=share_link)
  🔹 Languages I can speak -  English | Hindi | Urdu | Spanish
 
 <h3 align="left">Let's Get Connected..</h3>
